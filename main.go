@@ -3,5 +3,5 @@ package gopackdemo
 import "fmt"
 
 func HelloPackage() {
-	fmt.Println("Hello world")
+	fmt.Println("Hello world from package")
 }
