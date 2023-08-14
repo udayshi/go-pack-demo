@@ -1,5 +1,5 @@
 package util
 
-func doAdd(a int, b int) int {
+func DoAdd(a int, b int) int {
 	return a + b
 }
